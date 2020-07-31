@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Caitlin! 👋
 
+
+I'm a Management Consultant, who enjoys dabbling in the world of tech and programming. I've taken courses with freeCodeCamp, Code First: Girls and Udemy, making my own [blog](www.caitlingbailey.com) and using my data analysis skills. 
+Thanks for checking out my profile!
 <!--
 **caitlingbailey/caitlingbailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
