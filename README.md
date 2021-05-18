@@ -1,7 +1,7 @@
 ### Hi, I'm Caitlin! 👋
 
 
-I'm a Management Consultant, who enjoys dabbling in the world of tech and programming. 
+I'm an Analytics Consultant, who enjoys the world of tech and programming. 
 Thanks for checking out my profile!
 <!--
 **caitlingbailey/caitlingbailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
