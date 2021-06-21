@@ -1,10 +1,12 @@
+**caitlingbailey/caitlingbailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi, I'm Caitlin! 👋
 
+I'm a Full-Stack Software Engineer, who loves the world of tech and programming. I mainly use Python, React and C. Thanks for checking out my profile!
 
-I'm an Analytics Consultant, who enjoys the world of tech and programming. 
-Thanks for checking out my profile!
+🌱 I’m currently learning React
+📫 How to reach me: caitlingbailey.com
+
 <!--
-**caitlingbailey/caitlingbailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
