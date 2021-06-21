@@ -4,6 +4,7 @@
 I'm a Full-Stack Software Engineer, who loves the world of tech and programming. I mainly use Python, React and C. Thanks for checking out my profile!
 
 🌱 I’m currently learning React
+
 📫 How to reach me: caitlingbailey.com
 
 <!--
