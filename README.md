@@ -5,7 +5,7 @@ I'm a Full-Stack Software Engineer, who loves the world of tech and programming.
 
 🌱 I’m currently learning React
 
-📫 How to reach me: caitlingbailey.com
+📫 How to reach me: [my website](www.caitlingbailey.com)
 
 <!--
 
