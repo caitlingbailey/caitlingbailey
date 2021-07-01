@@ -16,7 +16,7 @@ I'm a Full-Stack Developer, from the UK and currently based in London. I'm curre
 ---
 
 <!-- [![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caitlingbailey)](https://github.com/anuraghazra/github-readme-stats) -->
-![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caitlingbailey&show_icons=true&theme=radical)
+![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=caitlingbailey&show_icons=true&theme=radical&count_private=true)
 
 
 <!--
