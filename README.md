@@ -7,6 +7,9 @@ I'm a Full-Stack Software Engineer, who loves the world of tech and programming.
 
 📫 How to reach me: [my website](www.caitlingbailey.com)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 
 Here are some ideas to get you started:
