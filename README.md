@@ -2,7 +2,12 @@
 [![Header](https://raw.githubusercontent.com/caitlingbailey/caitlingbailey/master/assets/github%20banner.png "Header")](http://www.caitlingbailey.com)
 ### Hi there, I'm Caitlin! 👋
 
-I'm a Full-Stack Developer, who loves the world of tech and programming. I mainly use Python, React and C. Thanks for checking out my profile!
+---
+
+I'm a Full-Stack Developer, from the UK and currently based in London. I'm currently a Full-Stack Engineer at Revmo. You can find me on LinkedIn or on [my website](http://www.caitlingbailey.com). I love the world of tech and programming. I mainly use Python, React and C. Thanks for checking out my profile!
+
+---
+
 
 🌱 I’m currently learning React
 
