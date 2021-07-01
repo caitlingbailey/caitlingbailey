@@ -1,8 +1,8 @@
 <!-- **caitlingbailey/caitlingbailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 [![Header](https://raw.githubusercontent.com/caitlingbailey/caitlingbailey/master/assets/github%20banner.png "Header")](http://www.caitlingbailey.com)
-### Hi, I'm Caitlin! 👋
+### Hi there, I'm Caitlin! 👋
 
-I'm a Full-Stack Software Engineer, who loves the world of tech and programming. I mainly use Python, React and C. Thanks for checking out my profile!
+I'm a Full-Stack Developer, who loves the world of tech and programming. I mainly use Python, React and C. Thanks for checking out my profile!
 
 🌱 I’m currently learning React
 
