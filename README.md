@@ -33,7 +33,7 @@ I'm a Full-Stack Developer, from the UK and currently based in London. I'm curre
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+    src="assets/docker.svg"
     width="60px"
   />
   <br />
