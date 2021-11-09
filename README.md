@@ -40,6 +40,9 @@ I'm a Full-Stack Developer, from the UK and currently based in London. I'm curre
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
     width="60px"
   />
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg"
+       width="60px"
+  />
   <br />
 </div>
 
