@@ -4,7 +4,7 @@
 
 ---
 
-I'm a Full-Stack Developer, from the UK and currently based in London. I'm currently a Full-Stack Engineer at Starling Bank, where I mainly use Python, JavaScript, React, Docker and C. You can find me on LinkedIn or on [my website](http://www.caitlingbailey.com). Thanks for checking out my profile!
+I'm a Full-Stack Developer, from the UK and currently based in London. I'm currently a Full-Stack Engineer at Starling Bank, where I mainly use Java, JavaScript and TypeScript. You can find me on LinkedIn or on [my website](http://www.caitlingbailey.com). Thanks for checking out my profile!
 
 ---
 
